@@ -8,3 +8,9 @@
 - :ghost: Fun fact: I love to 3D print and play guitar
 
 ### Connect with me:
+
+<br />
+
+### Languages and Tools:
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
