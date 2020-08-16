@@ -13,4 +13,4 @@
 
 ### Languages and Tools:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img height="32" width="32" style="filter: invert(36%) sepia(99%) saturate(1853%) hue-rotate(182deg) brightness(84%) contrast(101%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
