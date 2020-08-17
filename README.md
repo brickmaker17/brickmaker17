@@ -22,7 +22,7 @@
     }
 </style> -->
 
-<img align="left" width="32" alt="Visule Studio Code Logo" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_vscode.svg" />
+[<img align="left" width="32" alt="Visule Studio Code Logo" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_vscode.svg" />][vscode]
 <img align="left" width="32" alt="HTML Logo" src="https://raw.githubusercontent.com/actions/starter-workflows/02575c8e9159c78274a58f650ebfb94d44038029/icons/html.svg" />
 <img align="left" width="32" alt="CSS Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" width="32" alt="SASS Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
@@ -35,3 +35,5 @@
 <img align="left" width="32" alt="Git Logo" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/git/git-original-wordmark.svg" />
 <img align="left" width="32" alt="Testcafe Logo" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/57155afee1a6a5363fccb69225fcf6a5bd093365/public/logos/testcafe.svg" />
 <img align="left" width="32" alt="Mongo Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+[vscode]: https://code.visualstudio.com/
