@@ -13,13 +13,13 @@
 
 ### Languages and Tools:
 
-![vscodeLogo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg#vscode)
+![vscode Logo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg#vscode)
 
-<Style>
+<style>
     img[src*="vscode"]{
     width: 32px;
     height: 32px;
     filter: invert(36%) sepia(99%) saturate(1853%) hue-rotate(182deg) brightness(84%) contrast(101%);
     }
-</Style>
+</style>
 <!-- <img height="32" width="32" style="filter: invert(36%) sepia(99%) saturate(1853%) hue-rotate(182deg) brightness(84%) contrast(101%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /> -->
