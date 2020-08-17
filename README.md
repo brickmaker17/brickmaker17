@@ -34,3 +34,4 @@
 <img align="left" width="32" alt="Python Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="32" alt="Git Logo" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/git/git-original-wordmark.svg" />
 <img align="left" width="32" alt="Testcafe Logo" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/57155afee1a6a5363fccb69225fcf6a5bd093365/public/logos/testcafe.svg" />
+<img align="left" width="32" alt="Mongo Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
