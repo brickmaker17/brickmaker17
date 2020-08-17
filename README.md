@@ -23,3 +23,25 @@
 </style> -->
 
 <img height="32" width="32" alt="Visule Studio Code Logo" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_vscode.svg" />
+
+<img height="32" width="32" alt="HTML Logo" src="https://raw.githubusercontent.com/actions/starter-workflows/02575c8e9159c78274a58f650ebfb94d44038029/icons/html.svg" />
+
+<img height="32" width="32" alt="CSS Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+
+<img height="32" width="32" alt="SASS Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+
+<img height="32" width="32" alt="Styled Components Logo" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_styled.svg"/>
+
+<img height="32" width="32" alt="Javascript Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+
+<img height="32" width="32" alt="Storybook Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />
+
+<img height="32" widht="32" alt="React Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img height="32" width="32" alt="Node Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img height="32" width="32" alt="Python Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img height="32" width="32" alt="Git Logo" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/git/git-original-wordmark.svg" />
+
+<img height="32" width="32" alt="Mongo Logo" alt="https://raw.githubusercontent.com/cncf/landscape/62a4735652d92532ae2e32742c1f247056f7368d/hosted_logos/mongo-db.svg" />
