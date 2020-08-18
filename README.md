@@ -25,7 +25,7 @@
 </style> -->
 
 [<img align="left" width="32" alt="Visule Studio Code Logo" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_vscode.svg" />][vscode]
-<img align="left" width="32" alt="HTML Logo" src="https://raw.githubusercontent.com/actions/starter-workflows/02575c8e9159c78274a58f650ebfb94d44038029/icons/html.svg" />
+[<img align="left" width="32" alt="HTML Logo" src="https://raw.githubusercontent.com/actions/starter-workflows/02575c8e9159c78274a58f650ebfb94d44038029/icons/html.svg" />][html]
 <img align="left" width="32" alt="CSS Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" width="32" alt="SASS Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 <img align="left" width="32" alt="Styled Components Logo" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_styled.svg"/>
@@ -38,5 +38,11 @@
 <img align="left" width="32" alt="Testcafe Logo" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/57155afee1a6a5363fccb69225fcf6a5bd093365/public/logos/testcafe.svg" />
 <img align="left" width="32" alt="Mongo Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+---
+
+<img align="left" alt="Github Stats" src="github-readme-stats.brickmaker17.vercel.app
+" />
+
 [vscode]: https://code.visualstudio.com/
 [linkedin]: https://www.linkedin.com/in/luke-barrett-salt-lake-city/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
