@@ -38,10 +38,13 @@
 <img align="left" width="32" alt="Testcafe Logo" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/57155afee1a6a5363fccb69225fcf6a5bd093365/public/logos/testcafe.svg" />
 <img align="left" width="32" alt="Mongo Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
----
+<details>
+  <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Github Stats" src="github-readme-stats.brickmaker17.vercel.app
-" />
+<img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats.brickmaker17.vercel.app
+/api?username=brickmaker17&show_icons=true&hide_border=true" />
+
+</details>
 
 [vscode]: https://code.visualstudio.com/
 [linkedin]: https://www.linkedin.com/in/luke-barrett-salt-lake-city/
