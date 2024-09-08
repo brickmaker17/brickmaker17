@@ -41,11 +41,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-    <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.brickmaker17.vercel.app/api?username=brickmaker17" />
-
-</details>
 
 [vscode]: https://code.visualstudio.com/
 [linkedin]: https://www.linkedin.com/in/luke-barrett-salt-lake-city/
